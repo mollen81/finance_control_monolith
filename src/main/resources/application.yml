@@ -1,0 +1,9 @@
+---
+  server:
+    port: 8088
+  spring:
+    datasource:
+      url: jdbc:postgresql://localhost:5432/finance_control
+      name: mollen
+      password: 0324
+      driver-class-name: org.postgresql.Driver
